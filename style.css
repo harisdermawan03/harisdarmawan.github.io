@@ -1,0 +1,21 @@
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #87CEEB;
+}
+.abaout{
+    padding-top: 2rem;
+}
+#Blog{
+    background-color: #87CEEB;
+}
+footer{
+    background-color: #87CEEB;
+}
+section{
+    padding-top: 5rem;
+}
+#about{
+    margin: 0;
+    padding: 0;
+}
